@@ -11,7 +11,7 @@ import java.util.Map;
 
 public class Module extends ReactContextBaseJavaModule {
 
-  private static final String MODULE_NAME = "NativeToast" /** TODO Alterar */
+  private static final String MODULE_NAME = "NativeToast"; /** TODO Alterar */
   private static final String DURATION_SHORT_KEY = "SHORT";
   private static final String DURATION_LONG_KEY = "LONG";
 
