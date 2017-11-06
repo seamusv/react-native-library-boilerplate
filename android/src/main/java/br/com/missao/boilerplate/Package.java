@@ -1,4 +1,4 @@
-package io.cmichel.boilerplate;
+package br.com.missao.boilerplate; /** TODO Alterar Dinamicamente */
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.JavaScriptModule;

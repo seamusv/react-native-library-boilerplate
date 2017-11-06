@@ -1,0 +1,3 @@
+1 - Rename Manifest package address
+2 - Organize package as Manifest package
+3 - Fix import statement in java class
